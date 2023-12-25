@@ -4,7 +4,7 @@ Welcome to my repository dedicated to all things PyTorch! 🌟
 
 ## 📂 Directory Structure
 
-- `/project1`: Building my first model using Pytorch - Card Classification.
+- `/bulilding-first-model-using-pytorch`: Building my first model using Pytorch - Card Classification.
 
 
 ## 🌟 Highlights
